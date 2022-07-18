@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Oooh+Baby&display=swap');
+
+body{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    color: 	#363636;
+    text-align: center;
+  }
+  h1{
+    color: 	#26435E;
+    font-family: 'Oooh Baby', cursive;
+    font-size: 70px;
+    text-align: center;
+  }
+  h2{
+    font-size: 30px;
+  }
+  #main {
+    margin: 30px 10px;
+    padding: 10px;
+    background: linear-gradient(#C9D7E9, 	#FFD6DD);
+  }
+  img {
+    border-radius: 65px;
+    padding: 25px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  #img-div {
+    background: #DCDCDC;
+    margin: auto;
+    text-align: center;
+    padding: 25px;
+  }
+  #img-caption {
+    text-align: justify;
+  }
+  #headline {
+    font-size: 60px;
+    margin: 25px 0px;
+  }
+  p{
+    text-align: left;
+    margin: 25px;
+  }
+  
